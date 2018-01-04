@@ -11,13 +11,23 @@ Drill is similiar to simple except the card is simply removed from the box once 
 There is a gui available for all three study methods as well. 
 
 The commands to use this system are:
+
 import flashcardfile.txt
+
 leitner
+
 simple box#
+
 drill box#
+
 leitner-gui
+
 simple-gui box#
+
 drill-gui box#
+
 list-with box#          //this lists all the flashcards with the specified string in a certain box
+
 list-box box#           //this lists all the flashcards in the specified box
+
 !exit
